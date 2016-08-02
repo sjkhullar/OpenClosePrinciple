@@ -1,0 +1,1 @@
+Open close design principle - SOLID & real time examples
